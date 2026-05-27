@@ -1,6 +1,6 @@
 # Minesweeper Game
 
-Welcome to the Minesweeper Game! Test your logic and luck as you uncover cells on a board while avoiding hidden mines. The game becomes progressively more challenging as you advance through the levels. It is a very interesting game.
+Welcome to the Minesweeper Game! Test your logic and luck as you uncover cells on a board while avoiding hidden mines. The game becomes progressively more challenging as you advance through the levels. It is a very interesting game
 
 ---
 
